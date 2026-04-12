@@ -2,7 +2,7 @@
 
 **Financial Analyst | Data Science | Credit Risk**
 
-Business graduate building at the intersection of finance and data science. Currently completing a data science bootcamp and starting intermidate CIFA (Certified Investment Financial Analyst) classes — working toward investment and portfolio analysis roles where quantitative skills replace guesswork.
+Business finance graduate building at the intersection of finance and data science. Currently completing a data science bootcamp and starting intermediate CIFA (Certified Investment Financial Analyst) classes, working toward investment and portfolio analysis roles where quantitative skills replace guesswork.
 
 Based in Nairobi. Targeting financial institutions, banks, and asset management firms across East Africa.
 
@@ -10,9 +10,9 @@ Based in Nairobi. Targeting financial institutions, banks, and asset management 
 
 ### What I Work On
 
-**Credit Risk & Lending** — Built a probability of default model that flags high-risk borrowers before approval, with threshold optimization tuned to the cost asymmetry banks actually face (missed defaults are expensive, false flags are cheap). Estimated KES 490M annual loss prevention per KES 10B portfolio.
+**Credit Risk & Lending**  Built a probability of default model that flags high-risk borrowers before approval, with threshold optimization tuned to the cost asymmetry banks actually face (missed defaults are expensive, false flags are cheap). Estimated KES 490M annual loss prevention per KES 10B portfolio.
 
-**Equity & Portfolio Analytics** — Analyzed Safaricom (SCOM) from the perspective of an investment analyst evaluating portfolio inclusion. Covered return profiling, VaR at multiple confidence levels, volatility regimes, and technical price structure against Kenya's risk-free rate.
+**Equity & Portfolio Analytics**  Analyzed Safaricom (SCOM) from the perspective of an investment analyst evaluating portfolio inclusion. Covered return profiling, VaR at multiple confidence levels, volatility regimes, and technical price structure against Kenya's risk-free rate.
 
 ---
 
@@ -37,7 +37,7 @@ Based in Nairobi. Targeting financial institutions, banks, and asset management 
 
 ### What I'm Looking For
 
-Internship or entry-level roles in investment analysis, credit risk, or financial data analytics — particularly at firms that value quantitative rigor over traditional finance approaches.
+Internship or entry-level roles in investment analysis, credit risk, or financial data analytics, particularly at firms that value quantitative rigor over traditional finance approaches.
 
 Open to opportunities in Kenya and the broader East African market.
 
