@@ -14,11 +14,7 @@ Based in Nairobi. Targeting financial institutions, banks, and asset management 
 
 **Equity & Portfolio Analytics**  Analyzed Safaricom (SCOM) from the perspective of an investment analyst evaluating portfolio inclusion. Covered return profiling, VaR at multiple confidence levels, volatility regimes, and technical price structure against Kenya's risk-free rate.
 
-**Islamic Finance & Portfolio Construction**  
-Built a Sharia-compliant investment pipeline: screening NSE stocks against 
-AAOIFI standards, then optimizing portfolio allocation across halal stocks 
-using Monte Carlo simulation. Demonstrated KES 436,565 value-add over 
-naive allocation on a KES 1M portfolio.
+**Islamic Finance & Portfolio Construction**  Built a Sharia-compliant investment pipeline: screening NSE stocks against AAOIFI standards, then optimizing portfolio allocation across halal stocks using Monte Carlo simulation. Demonstrated KES 436,565 value-add over naive allocation on a KES 1M portfolio.
 ---
 
 ### Featured Projects
