@@ -14,6 +14,11 @@ Based in Nairobi. Targeting financial institutions, banks, and asset management 
 
 **Equity & Portfolio Analytics**  Analyzed Safaricom (SCOM) from the perspective of an investment analyst evaluating portfolio inclusion. Covered return profiling, VaR at multiple confidence levels, volatility regimes, and technical price structure against Kenya's risk-free rate.
 
+**Islamic Finance & Portfolio Construction**  
+Built a Sharia-compliant investment pipeline: screening NSE stocks against 
+AAOIFI standards, then optimizing portfolio allocation across halal stocks 
+using Monte Carlo simulation. Demonstrated KES 436,565 value-add over 
+naive allocation on a KES 1M portfolio.
 ---
 
 ### Featured Projects
@@ -22,7 +27,8 @@ Based in Nairobi. Targeting financial institutions, banks, and asset management 
 |---------|-------------|-------|
 | [**Credit Risk: Loan Default Prediction**](https://github.com/sirajiali-hub/loan-analysis) | PD model with financial impact quantification, threshold optimization, and banking-standard metrics (ROC-AUC 0.762, KS Statistic) | Python, scikit-learn, SciPy |
 | [**Safaricom Equity Analysis**](https://github.com/sirajiali-hub/safaricom_stock_analysis-) | Risk-return analysis of the most liquid NSE stock — Sharpe ratio, Historical/Parametric/Conditional VaR, drawdown analysis, technical indicators | Python, pandas, NumPy, matplotlib |
-
+| [**NSE Sharia Stock Screener**](https://github.com/sirajiali-hub/nse-sharia-screener) | Screens 20 NSE stocks against AAOIFI Islamic finance standards — business activity filtering with sector analysis | Python, pandas, matplotlib, seaborn |
+| [**NSE Halal Portfolio Optimizer**](https://github.com/sirajiali-hub/nse-portfolio-optimizer) | Monte Carlo portfolio optimization on Sharia-compliant NSE stocks — found optimal allocation adding KES 436K over equal-weight strategy | Python, pandas, NumPy, matplotlib |
 ---
 
 ### Skills & Tools
