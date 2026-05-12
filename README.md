@@ -14,7 +14,7 @@ A graduate building at the intersection of finance and data science. Currently c
 | [**Safaricom Equity Analysis & ML Forecasting**](https://github.com/sirajiali-hub/safaricom_stock_analysis-) | Risk-return analysis + ML prediction pipeline + Power BI dashboard: tested daily/weekly direction models (AUC 0.53), discovered volatility prediction (AUC 0.85), interactive dashboard with technical indicators and volatility analysis | Python, scikit-learn, Power BI |
 | [**NSE Sharia Stock Screener**](https://github.com/sirajiali-hub/nse-sharia-screener) | Screens 20 NSE stocks against AAOIFI Islamic finance standards, business activity filtering with sector analysis | Python, pandas, matplotlib, seaborn |
 | [**NSE Halal Portfolio Optimizer**](https://github.com/sirajiali-hub/nse-portfolio-optimizer) | Monte Carlo portfolio optimization on Sharia-compliant NSE stocks, found optimal allocation adding KES 436K over equal-weight strategy | Python, pandas, NumPy, matplotlib |
-| [**Bank SQL Analysis**](https://github.com/sirajiali-hub/bank-sql-analysis) | SQL-driven credit risk and customer segmentation analysis, multi-table JOINs, window functions, default rate by segment, loan portfolio health, marketing effectiveness | Python, SQLite, pandas |
+| [**Bank SQL Analysis**](https://github.com/sirajiali-hub/bank-sql-analysis) | SQL-driven credit risk and customer segmentation analysis, multi-table JOINs, window functions, default rate by segment, loan portfolio health, marketing effectiveness | Python, SQLite, pandas | Power BI
 ---
 
 ### Skills & Tools
