@@ -2,7 +2,7 @@
 
 **Financial Analyst | Data Science | Credit Risk**
 
-A graduate building at the intersection of finance and data science. Currently completing a data science bootcamp and starting intermediate CIFA (Certified Investment Financial Analyst) classes, working toward investment and portfolio analysis roles where quantitative skills replace guesswork.
+A graduate building at the intersection of finance and data science. CIFA (Certified Investment Financial Analyst) candidate, working toward investment and portfolio analysis roles where quantitative skills replace guesswork.
 
 ---
 
