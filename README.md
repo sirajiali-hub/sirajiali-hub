@@ -1,6 +1,6 @@
 # BarreSrj
 
-**Financial Analyst | Data Science | Credit Risk**
+**Financial Analyst | Data Science | investment analyst**
 
 A graduate building at the intersection of finance and data science. CIFA (Certified Investment Financial Analyst) candidate, working toward investment and portfolio analysis roles where quantitative skills replace guesswork.
 
