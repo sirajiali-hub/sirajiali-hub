@@ -1,8 +1,8 @@
-# BarreSrj
+#Siraji
 
 **Financial Analyst | Data Science | investment analyst**
 
-A graduate building at the intersection of finance and data science. CIFA (Certified Investment Financial Analyst) candidate, working toward investment and portfolio analysis roles where quantitative skills replace guesswork.
+A junior analyst building at the intersection of finance and data science. CIFA (Certified Investment Financial Analyst) candidate, working toward investment and portfolio analysis roles where quantitative skills replace guesswork.
 
 ---
 
@@ -23,7 +23,7 @@ A graduate building at the intersection of finance and data science. CIFA (Certi
 
 **Data Science:** Python, pandas, NumPy, scikit-learn, SciPy, matplotlib, seaborn, SQL, Jupyter
 
-**In Progress:** CIFA Intermediate (KASNEB), Investment Analysis, Portfolio Management, Financial Reporting
+**In Progress:** CIFA Intermediate, Investment Analysis, Portfolio Management, Financial Reporting
 
 ---
 
