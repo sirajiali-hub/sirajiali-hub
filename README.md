@@ -1,18 +1,18 @@
-#Siraji Barre Ali
+Siraji Barre Ali
 
 Financial Analyst | Investment Analysis | Data
 
-Junior analyst and CIFA Intermediate candidate in Nairobi. I use Excel, Python and SQL to value companies, measure risk and turn financial data into clear reports, with a focus on Kenyan markets.
+Junior analyt and CIFA Intermediate candidate in Nairobi. I use Excel, Python and SQL to value companies, measure risk and turn financial data into clear reports, with a focus on Kenyan markets.
 
- siraajiali8@gmail.com |
+siraajiali8@gmail.com
 
 Featured Projects
-Project	What it does	Tools
-Loan Default Prediction	Scores loan applicants by how likely they are not to repay, and shows where a bank should draw the line between approving and checking a loan (ROC AUC 0.76)	Python, scikit-learn
-NSE Sharia Stock Screener	Checks the top 20 NSE companies against Islamic finance rules on business type, debt and interest income. Only 3 of 20 pass	Python, Streamlit
-Bank SQL Analysis	Uses SQL to find which customers default most, how healthy the loan book is, and which marketing calls work best	SQL, Python
-Monthly Management Report	Excel finance report and KPI dashboard for a money transfer business: pick a month and the income statement, balance sheet and commentary update	Excel
-Safaricom Share Risk and Return	Two years of Safaricom returns compared with Treasury bills, price swings, biggest falls and bad day losses, with a Power BI dashboard	Python, Power BI
+Project	What I found	Tools
+Loan Default Prediction	The biggest warning signs are young age, a high interest rate and a large loan compared with income. The model catches about 7 in 10 defaults while still approving two thirds of applicants (ROC AUC 0.76)	Python, scikit-learn
+NSE Sharia Stock Screener	Only 3 of the top 20 NSE companies pass Islamic finance rules: Safaricom, Bamburi and Kenya Power. Banks fail on business type, insurers on interest income	Python, Streamlit
+Bank SQL Analysis	9.9% of loans defaulted, with expected losses of about 411 million. Bigger loans were not riskier, and mobile calls won more customers than landline calls	SQL, Python
+Monthly Management Report	One Excel template where picking a month updates the whole report. In the September example, revenue was 8.6% below budget but 21% above last year (illustrative data)	Excel
+Safaricom Share Risk and Return	Over two years Safaricom returned about 3% a year, below the 10% from Treasury bills, with a biggest fall of 22.7%	Python, Power BI
 
 Also on my profile: Safaricom valuation across 20,000 scenarios and an NSE halal portfolio optimizer.
 
@@ -22,6 +22,3 @@ Finance: company valuation (DCF), financial statement analysis, financial modell
 
 Data: Excel, Python (pandas, NumPy, scikit-learn, matplotlib), SQL, Power BI, Jupyter
 
-
-
-*Building things beats talking about building things.*
