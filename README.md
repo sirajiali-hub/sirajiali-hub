@@ -1,33 +1,27 @@
-#Siraji
+#Siraji Barre Ali
 
-**Financial Analyst | Data Science | investment analyst**
+Financial Analyst | Investment Analysis | Data
 
-A junior analyst building at the intersection of finance and data science. CIFA (Certified Investment Financial Analyst) candidate, working toward investment and portfolio analysis roles where quantitative skills replace guesswork.
+Junior analyst and CIFA Intermediate candidate in Nairobi. I use Excel, Python and SQL to value companies, measure risk and turn financial data into clear reports, with a focus on Kenyan markets.
 
----
+ siraajiali8@gmail.com |
 
-### Featured Projects
+Featured Projects
+Project	What it does	Tools
+Loan Default Prediction	Scores loan applicants by how likely they are not to repay, and shows where a bank should draw the line between approving and checking a loan (ROC AUC 0.76)	Python, scikit-learn
+NSE Sharia Stock Screener	Checks the top 20 NSE companies against Islamic finance rules on business type, debt and interest income. Only 3 of 20 pass	Python, Streamlit
+Bank SQL Analysis	Uses SQL to find which customers default most, how healthy the loan book is, and which marketing calls work best	SQL, Python
+Monthly Management Report	Excel finance report and KPI dashboard for a money transfer business: pick a month and the income statement, balance sheet and commentary update	Excel
+Safaricom Share Risk and Return	Two years of Safaricom returns compared with Treasury bills, price swings, biggest falls and bad day losses, with a Power BI dashboard	Python, Power BI
 
-| Project | What It Does | Tools |
-|---------|-------------|-------|
-| [**Credit Risk: Loan Default Prediction**](https://github.com/sirajiali-hub/loan-analysis) | PD model with financial impact quantification, threshold optimization, and banking-standard metrics (ROC-AUC 0.762, KS Statistic) | Python, scikit-learn, SciPy |
-| [**Safaricom Equity Analysis & ML Forecasting**](https://github.com/sirajiali-hub/safaricom_stock_analysis-) | Risk-return analysis + ML prediction pipeline + Power BI dashboard: tested daily/weekly direction models (AUC 0.53), discovered volatility prediction (AUC 0.85), interactive dashboard with technical indicators and volatility analysis | Python, scikit-learn, Power BI |
-| [**NSE Sharia Stock Screener**](https://github.com/sirajiali-hub/nse-sharia-screener) | Screens 20 NSE stocks against AAOIFI Islamic finance standards, business activity filtering with sector analysis | Python, pandas, matplotlib, seaborn |
-| [**NSE Halal Portfolio Optimizer**](https://github.com/sirajiali-hub/nse-portfolio-optimizer) | Monte Carlo portfolio optimization on Sharia-compliant NSE stocks, found optimal allocation adding KES 436K over equal-weight strategy | Python, pandas, NumPy, matplotlib |
-| [**Bank SQL Analysis**](https://github.com/sirajiali-hub/bank-sql-analysis) | SQL-driven credit risk and customer segmentation analysis, multi-table JOINs, window functions, default rate by segment, loan portfolio health, marketing effectiveness | Python, SQLite, pandas | Power B
----
+Also on my profile: Safaricom valuation across 20,000 scenarios and an NSE halal portfolio optimizer.
 
-### Skills & Tools
+Skills
 
-**Finance:** Equity valuation, credit risk modeling, Value at Risk, portfolio analytics, IFRS 9 concepts, financial statement analysis
+Finance: company valuation (DCF), financial statement analysis, financial modelling, risk and return analysis, Value at Risk, credit risk, budget versus actual reporting
 
-**Data Science:** Python, pandas, NumPy, scikit-learn, SciPy, matplotlib, seaborn, SQL, Jupyter
-
-**In Progress:** CIFA Intermediate, Investment Analysis, Portfolio Management, Financial Reporting
-
----
+Data: Excel, Python (pandas, NumPy, scikit-learn, matplotlib), SQL, Power BI, Jupyter
 
 
----
 
 *Building things beats talking about building things.*
